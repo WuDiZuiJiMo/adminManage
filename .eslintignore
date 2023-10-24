@@ -1,0 +1,7 @@
+# Ignore built files except src/lib
+/src/lib/*
+/dist/
+/node_modules/*
+/*.js
+/*.txt
+/src/docs/*
