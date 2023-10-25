@@ -5,8 +5,8 @@
 
 ## 前端技术栈
 ```
-1. 前端框架： vue + element-ui 组件库 
-2. 前端工程化：脚手架vue-cli5  vue-router  vuex
+1. 前端框架： vue2.6 + element-ui 组件库 
+2. 前端工程化：脚手架vue-cli5
 ``` 
 
 ## 文件目录说明
@@ -37,7 +37,8 @@
 ```
 |  组件名   | 是否应用   |
 |  ----   | ----  |
-| container aside scrollbar menu 布局  | 是 |
+| container 布局  | 是 |
+| tree  | 是 |
 ```
 2.解析md文档组件
 ```
