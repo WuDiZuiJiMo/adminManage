@@ -84,7 +84,7 @@ export default {
   },
   computed: {
     filePath() {
-      return this.$store.state.filePath || 'README.md';
+      return this.$store.state.filePath || 'BookMarks.md';
     },
   },
   filters: {
